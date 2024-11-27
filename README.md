@@ -1,5 +1,5 @@
-<h1 align="center"> Hello 👋, I'm Pasindu Aluthwalahewa</h1>
-<h3 align="center">Trainee Software Engineer at 99x</h3>
+<h1 align="center"> Hello 👋, I'm Ramindu supun</h1>
+
 
 I'm a passionate software developer with expertise across multiple languages and frameworks, including TypeScript, JavaScript, Java, and C#. I specialize in building responsive web and mobile applications with React, Spring Boot, React Native, and Flutter.
 
@@ -9,11 +9,11 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 
 🌟 Let's connect and collaborate on exciting projects together!
 
-- 👨‍💻 All of my projects are available at [https://pasinduu.me/](https://pasinduu.me/)
+- 👨‍💻 All of my projects are available at [https://ramindusupun.me/](https://ramindusupun.me/)
 
 
 
-- 📫 How to reach me **pasindualuthwalahewa@gmail.com**
+- 📫 How to reach me **ramindusupun@gmail.com**
 
 ### Languages and Tools:
 
@@ -53,8 +53,7 @@ I'm a big believer in open-source development and enjoy contributing to the comm
 ### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-aluthwalahewa-471b6b229/)
-[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://pasinduu.me/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pasindualuthwalahewa/)
+[![Website](https://img.shields.io/badge/-Website-0088CC?style=flat&logo=google-chrome&logoColor=white)](https://ramindusupun.me/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100029046765112)
 
 
